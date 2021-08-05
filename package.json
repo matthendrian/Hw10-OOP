@@ -1,0 +1,20 @@
+{
+    "name": "hw10-oop",
+    "version": "1.0.0",
+    "description": "team profile generator",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Matt Hendrian",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^24.9.0"
+    },
+    "dependencies": {
+        "inquirer": "^8.1.0"
+    }
+}
